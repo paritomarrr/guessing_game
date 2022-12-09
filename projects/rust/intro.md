@@ -21,5 +21,8 @@
  - speed
  - safety
  - concurrency
- 
+
+
+ ## Rust does not support garbage collector
+
 
